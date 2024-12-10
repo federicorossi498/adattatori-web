@@ -2,7 +2,7 @@
 layout: page
 title: All you need is love...and a good chemical affinity
 subtitle: An analysis on sexually transmitted diseases
-cover-img: /assets/img/Hepatite02.png
+cover-img: /assets/img/Progetto senza titolo.png
 ---
 
 Throughout history, women have been marginalized in many communities and in the last few years, gender bias against women has become even more visible in internet applications and online search. In Wikipedia, women are more linked to men than vice versa[^1] and Google Translate has a tendency towards male defaults[^2]. **Gender bias that appears online is in fact a reflection of the gender bias in our society.** Therefore, we would like to investigate whether there exists a gender bias against women when people play the game of  Wikispeedia. In Wikispeedia, people are asked to navigate from a given source article to a certain target article on Wikipedia. The Wikispeedia dataset[^3] provides human navigation paths on a subset of Wikipedia that can be used to investigate whether there exists gender bias against women when users navigate from a given source article to a target article, where the target article relates to women.
