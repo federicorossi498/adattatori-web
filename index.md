@@ -28,7 +28,6 @@ HIV-1 is primarily transmitted through unprotected sexual contact, needle sharin
 <img src="assets/img/famous.png" alt="No"/>
 </p>
 
-{% include plot1.html %}
 
 
 ## References
