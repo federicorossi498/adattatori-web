@@ -5,30 +5,27 @@ subtitle: An analysis on sexually transmitted diseases
 cover-img: /assets/img/Progetto senza titolo.png
 ---
 
-Throughout history, women have been marginalized in many communities and in the last few years, gender bias against women has become even more visible in internet applications and online search. In Wikipedia, women are more linked to men than vice versa[^1] and Google Translate has a tendency towards male defaults[^2]. **Gender bias that appears online is in fact a reflection of the gender bias in our society.** Therefore, we would like to investigate whether there exists a gender bias against women when people play the game of  Wikispeedia. In Wikispeedia, people are asked to navigate from a given source article to a certain target article on Wikipedia. The Wikispeedia dataset[^3] provides human navigation paths on a subset of Wikipedia that can be used to investigate whether there exists gender bias against women when users navigate from a given source article to a target article, where the target article relates to women.
+As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes.
 {: .text-justify}
 
-## The men and the women of Wikispeedia
+## STD and HIV
 
-Wikipedia’s vast collection of articles has been a source of much amusement for many of its users. Wikipedia has grown so big that users have found a way to entertain themselves within the site itself with navigating from one article to another in the shortest possible time. Evidently, a big portion of the articles concern people. You can find articles about all kinds of people, big and small, famous and not so famous. But unfortunately, as in the real world, there is a bias against women. In the Wikispeedia dataset that we investigated, the first thing that struck us was that only a small portion of the articles about people are in fact about women. 
+The prevalence of STDs has expanded due to factors like increased global travel, changing sexual behaviors, lack of awareness, and insufficient access to healthcare in certain countries. 
+The global fight against STDs has been an ongoing battle, with healthcare organizations and governments focusing on prevention, education, and treatment. However, despite considerable progress in some areas, STDs, especially HIV, continue to present challenges
 {: .text-justify}
 
 {% include plot1.html %}
 
-The second thing that struck us was the unequal amount of articles about women and men within each of the dataset's categories. The only category where the number of articles about women came close to being the same as the number of articles about men was in the category for *Actors, models and celebrities*. This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon).
+HIV (Human Immunodeficiency Virus type 1) in particular, stands out as one of the most prominent and feared STDs, primarily due to its long-term effects and lack of a cure. It attacks the immune system, specifically targeting CD4 cells (T cells), which are crucial for immune defense. If untreated, HIV leads to acquired immunodeficiency syndrome (AIDS), a condition in which the immune system is severely weakened, making individuals vulnerable to opportunistic infections and certain cancers.
 {: .text-justify}
 
 {% include plot2.html %} 
 
-In each category, there are A LOT of articles about men. Sadly, it doesn’t come as a surprise to see the striking comparison of the number of articles about men and the number of articles about women. Men have dominated all aspect of the society for such a long time. In the following years, this will hopefully change for the better.
+HIV-1 is primarily transmitted through unprotected sexual contact, needle sharing, or mother-to-child transfer during childbirth or breastfeeding, as it is present in blood, semen, vaginal fluids, and breast milk.
 {: .text-justify}
 
 {% include plot3.html %} 
 
-Additionally, a higher fraction of the paths that lead to target articles about men are finished than those of the paths that lead to target articles about women! And for the unfinished paths, the women have the "victory" as the fraction of unfinished paths that lead to women articles is higher than those for men articles.
-{: .text-justify}
-
-{% include piechart.html %} 
 
 ## But do the paths that lead to target articles about women differ in any way from the paths that lead to target articles about men? 
 The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself and how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back to the previous article with a backclick but some paths are easier. By comparing these characteristics that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
