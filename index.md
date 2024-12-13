@@ -50,7 +50,11 @@ We will embark on a quest to uncover patterns among ligands that can more effect
 
 
 ### Description of the dataset
-To ensure our dataset is suitable for analyzing HIV, we began by narrowing down the BindingDB database to focus exclusively on target organisms related to sexually transmitted diseases (STDs). The resulting subset contains data on proteins and organisms specifically linked to STDs. In the plot below (add pie chart), we visualize the distribution of target source organisms present in our STD dataset. Encouragingly, a significant portion of the targets are proteins from HIV-1, validating the relevance of our dataset for this analysis.
+To ensure our dataset is suitable for analyzing HIV, we began by narrowing down the BindingDB database to focus exclusively on target organisms related to sexually transmitted diseases (STDs). The resulting subset contains data on proteins and organisms specifically linked to STDs. In the plot below, we visualize the distribution of target source organisms present in our STD dataset. Encouragingly, a significant portion of the targets are proteins from HIV-1, validating the relevance of our dataset for this analysis.
+
+<div style="text-align: center;">
+  <img src="assets/img/pie_chart.png" alt="Pie Chart of Target Source Organisms" style="max-width: 80%; height: auto;">
+</div>
 
 ## References
 
