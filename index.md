@@ -30,8 +30,11 @@ Over the years, several prominent individuals have courageously disclosed their 
 <img src="assets/img/famous.png" alt="No"/>
 </p>
 Magic Johnson – The American basketball legend announced in 1991 that he had tested positive for HIV. His openness helped raise awareness about the disease, and he has lived for decades with the virus, thanks to early diagnosis and treatment.
+
 Freddie Mercury – The iconic lead singer of Queen, Freddie Mercury, died of AIDS-related complications in 1991. His death further fueled global awareness and advocacy for HIV/AIDS research and prevention.
+
 Charlie Sheen – The American actor publicly revealed his HIV-positive status in 2015, sparking discussions about HIV and the importance of safe sex practices and regular testing.
+
 Elizabeth Taylor – The famous actress was an outspoken advocate for HIV/AIDS awareness and co-founded the American Foundation for AIDS Research (amfAR) in 1985 after the death of her friend, Rock Hudson.
 
 ### HIV/AIDS STATISTICS AND COST
