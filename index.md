@@ -8,7 +8,7 @@ cover-img: /assets/img/Progetto senza titolo.png
 As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
 {: .text-justify}
 
-## <span style="color: mediumvioletred;">STD and HIV</span>
+## <span style="color: mediumvioletred; font-family: 'Helvetica Neue';">STD and HIV</span>
 
 ### What is HIV?
 
