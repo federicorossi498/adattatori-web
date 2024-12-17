@@ -6,7 +6,16 @@ cover-img: /assets/img/Progetto senza titolo.png
 ---
 
 <!-- Sidebar -->
-  <div style="width: 20%; background-color: #f4f4f4; padding: 15px; position: fixed;">
+   <div style="
+      position: fixed; /* Fix sidebar to the top-right corner */
+      top: 0;
+      right: 0;
+      width: 20%; 
+      height: 100%; 
+      background-color: #f4f4f4; 
+      padding: 20px;
+      box-shadow: -2px 0 5px rgba(0,0,0,0.1); 
+      overflow-y: auto;">
     <h3>Project Sections</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="#introduction">Introduction</a></li>
