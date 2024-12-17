@@ -5,26 +5,28 @@ subtitle: An analysis on sexually transmitted diseases
 cover-img: /assets/img/Progetto senza titolo.png
 ---
 
-<!-- Sidebar -->
-   <div style="
-      position: fixed; /* Fix sidebar to the top-right corner */
+<div style="display: flex; min-height: 100vh;">
+  <!-- Sidebar -->
+  <div style="
+      position: fixed; /* Fix sidebar to the top-left corner */
       top: 0;
-      right: 0;
+      left: 0;
       width: 20%; 
       height: 100%; 
       background-color: #f4f4f4; 
       padding: 20px;
-      box-shadow: -2px 0 5px rgba(0,0,0,0.1); 
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1); 
       overflow-y: auto;">
     <h3>Project Sections</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="#introduction">Introduction</a></li>
       <li><a href="#std-and-hiv">STD and HIV</a></li>
       <li><a href="#our-project">Our Project</a></li>
-      <li><a href="#dataset">Description of the dataset</a></li>
+      <li><a href="#dataset">Description of the Dataset</a></li>
       <li><a href="#analysis">Analysis</a></li>
     </ul>
   </div>
+
 
 As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes.
 {: .text-justify}
