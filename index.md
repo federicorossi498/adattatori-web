@@ -5,21 +5,18 @@ subtitle: An analysis on sexually transmitted diseases
 cover-img: /assets/img/Progetto senza titolo.png
 ---
 
-As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes.
+As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
 {: .text-justify}
 
 ## STD and HIV
 
-The prevalence of STDs has expanded due to factors like increased global travel, changing sexual behaviors, lack of awareness, and insufficient access to healthcare in certain countries. 
-The global fight against STDs has been an ongoing battle, with healthcare organizations and governments focusing on prevention, education, and treatment. However, despite considerable progress in some areas, STDs, especially HIV, continue to present challenges
+First of all, what are STDs and what is the famous HIV?
 {: .text-justify}
 
-
-HIV (Human Immunodeficiency Virus type 1) in particular, stands out as one of the most prominent and feared STDs, primarily due to its long-term effects and lack of a cure. It attacks the immune system, specifically targeting CD4 cells (T cells), which are crucial for immune defense. If untreated, HIV leads to acquired immunodeficiency syndrome (AIDS), a condition in which the immune system is severely weakened, making individuals vulnerable to opportunistic infections and certain cancers.
+The world has been playing an awkward game of “pass the parcel” with STDs, and unfortunately, the parcel isn’t full of candy. Thanks to increased global travel, changing sexual habits, and a surprising number of people who still think, “What could possibly go wrong?” STDs are getting more screen time than they deserve. Add a sprinkle of healthcare inequality and a dash of blissful ignorance, and you’ve got the perfect recipe for a global headache.
 {: .text-justify}
- 
 
-HIV-1 is primarily transmitted through unprotected sexual contact, needle sharing, or mother-to-child transfer during childbirth or breastfeeding, as it is present in blood, semen, vaginal fluids, and breast milk.
+HIV (Human Immunodeficiency Virus type 1) in particular, stands out as one of the most prominent and feared STDs, primarily due to its long-term effects and lack of a cure. It is primarily transmitted through unprotected sexual contact, needle sharing, or mother-to-child transfer during childbirth or breastfeeding, as it is present in blood, semen, vaginal fluids, and breast milk. It attacks the immune system, specifically targeting CD4 cells (T cells), which are crucial for immune defense. If untreated, HIV leads to acquired immunodeficiency syndrome (AIDS), a condition in which the immune system is severely weakened, making individuals vulnerable to opportunistic infections and certain cancers.
 {: .text-justify}
 
 
@@ -41,7 +38,8 @@ Elizabeth Taylor – The famous actress was an outspoken advocate for HIV/AIDS a
 
 <div class="elfsight-app-dd8d9787-2a4b-4777-982d-e34cdd348984" data-elfsight-app-lazy></div>
 
-### Our Project
+
+## Our Project
 So, will our contribution be to the HIV struggle?
 
 Fortunately, not only humans live their life in couples but so do chemical compounds, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
