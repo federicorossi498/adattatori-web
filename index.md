@@ -12,7 +12,7 @@ cover-img: /assets/img/Progetto senza titolo.png
       <li><a href="#introduction">Introduction</a></li>
       <li><a href="#std-and-hiv">STD and HIV</a></li>
       <li><a href="#our-project">Our Project</a></li>
-      <li><a href="#dataset">Description of the Dataset</a></li>
+      <li><a href="#dataset">Description of the dataset</a></li>
       <li><a href="#analysis">Analysis</a></li>
     </ul>
   </div>
