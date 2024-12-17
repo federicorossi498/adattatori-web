@@ -56,6 +56,38 @@ To ensure our dataset is suitable for analyzing HIV, we began by narrowing down 
   <img src="assets/img/STDs_piechart.png" alt="Pie Chart of Target Source Organisms" style="max-width: 80%; height: auto;">
 </div>
 
+### Why choose IC50 as a binding affinity metric?
+In the world of drug discovery, four key metrics help us measure the strength and nature of the bond between a drug and its target protein:
+
+-Ki measures the binding affinity of an inhibitor to its target under ideal equilibrium conditions.
+-Kd quantifies the strength of the interaction, with lower values indicating tighter binding.
+-EC50 gauges the concentration of a drug needed to produce half of its maximal biological effect.
+-IC50, our metric of choice, represents the concentration of a drug required to inhibit 50% of the target’s activity in an experimental setup.
+While these metrics are interconnected, IC50 stands out for its practical and experimental relevance. Unlike Ki or Kd, which are equilibrium constants requiring specific conditions to interpret accurately, IC50 directly reflects how much of a drug is needed to impede a biological process. Moreover, it is the most frequently reported metric in our dataset, making it both scientifically and statistically robust for our analysis.
+
+<div style="text-align: center;">
+  <img src="assets/img/ic50 distribution.png" alt="Pie Chart of Target Source Organisms" style="max-width: 80%; height: auto;">
+</div>
+
+By focusing on IC50, we ensure that our exploration is grounded in data that is both reliable and meaningful, allowing us to trace patterns in drug-target interactions. This decision shapes our next steps: filtering the dataset to retain only rows with IC50 values, ensuring our analysis is built on a solid foundation.
+
+### What comes next?
+With our dataset validated and refined, we are ready to dive deeper into the molecular dynamics of drug-target interactions. By uncovering the features that enhance binding affinity, we aim to contribute to the larger fight against HIV, supporting the development of more effective treatments and, ultimately, healthier human connections.
+
+### Analysis 
+To begin, we analyzed the number of unique target proteins present in our target organism (HIV). The visualization below displays all target proteins, including instances where the same protein appears with different mutations or target sites.
+
+<div style="text-align: center;">
+  <img src="assets/img/hist_targets_non_condensed.png" alt="Barplot of Non-Condensed Targets" style="max-width: 80%; height: auto;">
+  <p style="font-weight: bold; margin-top: 10px;">Non-Condensed Target Proteins Distribution</p>
+</div>
+
+To simplify the analysis, we created a condensed barplot that groups identical proteins together, regardless of mutations or target site variations.
+
+<div style="text-align: center;">
+  <img src="assets/img/hist_target_proteins_condensed.png" alt="Barplot of Condensed Targets" style="max-width: 80%; height: auto;">
+  <p style="font-weight: bold; margin-top: 10px;">Condensed Target Proteins Distribution</p>
+</div>
 ## References
 
 [^1]: 
