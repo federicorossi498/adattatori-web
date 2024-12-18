@@ -22,7 +22,9 @@ The world has been playing an awkward game of “pass the parcel” with STDs, a
 {: .text-justify}
 
 
-### Famous people with HIV
+<p align="left">
+<img src="assets/img/famouspeople.png" alt="No" width="200" height="auto"/>
+</p>
 Over the years, several prominent individuals have courageously disclosed their HIV status, using their platform to raise awareness, educate the public, and combat the stigma associated with the virus. These figures come from diverse backgrounds. Some of these include:
 {: .text-justify}
 <p align="center">
