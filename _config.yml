@@ -19,13 +19,13 @@ author: Federico Rossi, Elisa Noi, Simone Vicentini, Mattia Moro, Leonor Piedraf
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+nnavbar-links:
   Home: "/"
-  Introduction: "/introduction"
-  Our Project: "/our-project"
-  Analysis: "/analysis"
-  Conclusion: "/conclusion"
-  
+  Introduction: "/#introduction"
+  Our Project: "/#our-project"
+  Analysis: "/#analysis"
+  Conclusion: "/#conclusion"
+
 ################
 # --- Logo --- #
 ################
