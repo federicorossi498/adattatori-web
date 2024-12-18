@@ -10,7 +10,8 @@ cover-img: /assets/img/Progetto senza titolo.png
 As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming many risks. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
 {: .text-justify}
 
-## STD and HIV {#introduction}
+## STD and HIV
+{: #introduction}
 <p align="left">
 <img src="assets/img/whatis.png" alt="No" width="200" height="auto"/>
 </p>
@@ -43,7 +44,8 @@ Freddie Mercury – The iconic lead singer of Queen has left us but his powerful
 <div class="elfsight-app-dd8d9787-2a4b-4777-982d-e34cdd348984" data-elfsight-app-lazy></div>
 
 
-## Our Project {#our-project}
+## Our Project
+{: #our-project}
 <p align="left">
 <img src="assets/img/contribution.png" alt="No" width="200" height="auto"/>
 </p>
@@ -78,7 +80,8 @@ By focusing on IC50, we ensure that our exploration is grounded in data that is 
 ### What comes next?
 With our dataset validated and refined, we are ready to dive deeper into the molecular dynamics of drug-target interactions. By uncovering the features that enhance binding affinity, we aim to contribute to the larger fight against HIV, supporting the development of more effective treatments and, ultimately, healthier human connections.
 
-### Analysis {#analysis}
+### Analysis
+{: #analysis}
 To begin, we analyzed the number of unique target proteins present in our target organism (HIV). The visualization below displays all target proteins, including instances where the same protein appears with different mutations or target sites.
 
 <div style="text-align: center;">
@@ -101,7 +104,8 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
   <img src="assets/img/ic50_boxplot_condensed.png" alt="Barplot of Condensed Targets" style="max-width: 80%; height: auto;">
 </div>
 
-### Conclusion {#conclusion}
+### Conclusion 
+{: #conclusion}
 ## References
 
 [^1]: 
