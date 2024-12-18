@@ -12,7 +12,7 @@ As social beings, we humans tend to create meaningful romantic relationships. Ne
 
 ## STD AND HIV <a id="introduction"></a>
 <p align="left">
-<img src="assets/img/whatis.png" alt="No" width="200" height="auto"/>
+<img src="assets/img/whatis.png" alt="No" width="300" height="auto"/>
 </p>
 
 The world has been playing an awkward game of “pass the parcel” with STDs, and unfortunately, the parcel isn’t full of candy. Thanks to increased global travel, changing sexual habits, and a surprising number of people who still think, “What could possibly go wrong?” STDs are getting more screen time than they deserve. Add a sprinkle of healthcare inequality and a dash of blissful ignorance, and you’ve got the perfect recipe for a global headache.
@@ -23,7 +23,7 @@ The world has been playing an awkward game of “pass the parcel” with STDs, a
 
 
 <p align="left">
-<img src="assets/img/famouspeople.png" alt="No" width="200" height="auto"/>
+<img src="assets/img/famouspeople.png" alt="No" width="300" height="auto"/>
 </p>
 Over the years, several prominent individuals have courageously disclosed their HIV status, using their platform to raise awareness, educate the public, and combat the stigma associated with the virus. These figures come from diverse backgrounds. Some of these include:
 {: .text-justify}
@@ -45,7 +45,7 @@ Freddie Mercury – The iconic lead singer of Queen has left us but his powerful
 
 ## OUR PROJECT <a id="our-project"></a>
 <p align="left">
-<img src="assets/img/contribution.png" alt="No" width="500" height="auto"/>
+<img src="assets/img/contribution.png" alt="No" width="400" height="auto"/>
 </p>
 
 Fortunately, not only humans live their life in couples but so do chemical compounds, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
