@@ -11,8 +11,8 @@ As social beings, we humans tend to create meaningful romantic relationships. Ne
 {: .text-justify}
 
 ## STD and HIV
-<p align="center">
-<img src="assets/img/whatis.png" alt="No" width="500" height="auto"/>
+<p align="left">
+<img src="assets/img/whatis.png" alt="No" width="200" height="auto"/>
 </p>
 
 The world has been playing an awkward game of “pass the parcel” with STDs, and unfortunately, the parcel isn’t full of candy. Thanks to increased global travel, changing sexual habits, and a surprising number of people who still think, “What could possibly go wrong?” STDs are getting more screen time than they deserve. Add a sprinkle of healthcare inequality and a dash of blissful ignorance, and you’ve got the perfect recipe for a global headache.
