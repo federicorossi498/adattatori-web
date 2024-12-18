@@ -43,7 +43,7 @@ Freddie Mercury – The iconic lead singer of Queen has left us but his powerful
 <div class="elfsight-app-dd8d9787-2a4b-4777-982d-e34cdd348984" data-elfsight-app-lazy></div>
 
 
-## Our Project <a id="our-project"></a>
+## OUR PROJECT <a id="our-project"></a>
 <p align="left">
 <img src="assets/img/contribution.png" alt="No" width="500" height="auto"/>
 </p>
