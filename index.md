@@ -75,7 +75,9 @@ While these metrics are interconnected, IC50 stands out for its practical and ex
 
 By focusing on IC50, we ensure that our exploration is grounded in data that is both reliable and meaningful, allowing us to trace patterns in drug-target interactions. This decision shapes our next steps: filtering the dataset to retain only rows with IC50 values, ensuring our analysis is built on a solid foundation.
 
-### What comes next?
+<p align="left">
+<img src="assets/img/next.png" alt="No" width="500" height="auto"/>
+</p>
 With our dataset validated and refined, we are ready to dive deeper into the molecular dynamics of drug-target interactions. By uncovering the features that enhance binding affinity, we aim to contribute to the larger fight against HIV, supporting the development of more effective treatments and, ultimately, healthier human connections.
 
 ### Analysis <a id="analysis"></a>
