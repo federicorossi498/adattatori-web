@@ -20,13 +20,12 @@ author: Federico Rossi, Elisa Noi, Simone Vicentini, Mattia Moro, Leonor Piedraf
 ###############################################
 
 navbar-links:
-#  About Me: "aboutme"
-#  Datastory: "datastory"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
-
+  Home: "/"
+  Introduction: "/introduction"
+  Our Project: "/our-project"
+  Analysis: "/analysis"
+  Conclusion: "/conclusion"
+  
 ################
 # --- Logo --- #
 ################
