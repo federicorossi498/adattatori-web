@@ -102,9 +102,7 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 <iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
 
-To assess if the differences among the IC50 values are statisically signficant, we perfomed severel statistcal tests after having determined that the distribution of the data is not normal (through Kolmogorov-Smirnov test).
-First of all, Kruskal-Wallis test that evaluates whether the medians of two or more groups are significantly different: the results show that there are some differences. 
-Secondly, we perform a post-hoc Dunn's test to identify which specific groups differ in their medians. The result is that, at the standard significance level of 0.05, Gag-Pol polyprotein median logarithmic IC50 is significantly different from the other groups.
+To determine whether the differences among the IC50 values are statistically significant, we conducted several tests after confirming that the data distribution is non-normal using the Kolmogorov-Smirnov test. First, we applied the Kruskal-Wallis test to assess whether the medians of two or more groups differ significantly; the results indicated the presence of significant differences. Subsequently, we performed a post-hoc Dunn’s test to pinpoint the specific groups with differing medians. At the standard significance level of 0.05, the analysis revealed that the median logarithmic IC50 for the Gag-Pol polyprotein group is significantly different from those of the other groups.
 {: .text-justify}
 
 ### Focus on Ligands targeting Gag-Pol polyprotein
