@@ -30,7 +30,7 @@ Over the years, several prominent individuals have courageously disclosed their 
 <img src="assets/img/famous.png" alt="No"/>
 </p>
 
-HIV/AIDS remains a major global health issue, with over 38 million people living with HIV. Around 1.5 million new infections occur annually, and 650,000 deaths were reported in 2022. Sub-Saharan Africa is the most affected, especially among young women. Increased access to treatment has helped control the virus.
+Look at some statistics about HIV/AIDS that highlight the ongoing global challenges and progress in combating the epidemic!! Such numbers! 
 {: .text-justify}
 
 <div class="elfsight-app-dd8d9787-2a4b-4777-982d-e34cdd348984" data-elfsight-app-lazy></div>
