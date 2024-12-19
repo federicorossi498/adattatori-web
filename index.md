@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ALL YOU NEED IS LOVE... AND A GOOD CHEMICAL AFFINITY
+title: ALL YOU NEED IS LOVE... AND A GOOD CHEMICAL AFFINITY!
 subtitle: An analysis on sexually transmitted diseases
 cover-img: /assets/img/Progetto senza titolo.png
 ---
