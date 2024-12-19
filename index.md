@@ -99,6 +99,7 @@ To simplify the analysis, we created a condensed barplot that groups identical p
   <p style="font-weight: bold; margin-top: 10px;">Condensed Target Proteins Distribution</p>
 </div>
 
+<iframe src="assets/plots/most_targ_prot.html" width="100%" height="800px" frameborder="0"></iframe>
 
 ### Revealing affinities: The first step in our Journey
 Our exploration begins with a glimpse into the world of drug-target affinities, focusing on IC50 values for each of the target proteins in our dataset. Through the lens of the representative boxplots below, we uncover the range and variability of these affinities, painting a detailed picture of how well different compounds inhibit their target proteins. Once we complete the analysis, we’ll delve into the patterns and insights these plots reveal—laying the groundwork for our deeper investigation.
@@ -109,8 +110,6 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 
 
-### Most targeted protein
-<iframe src="assets/plots/most_targ_prot.html" width="100%" height="800px" frameborder="0"></iframe>
 
 
 
