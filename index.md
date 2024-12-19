@@ -11,7 +11,7 @@ As social beings, we humans tend to create meaningful <span style="color: firebr
 
 ## STD AND HIV <a id="introduction"></a>
 <p align="center">
-<img src="assets/img/whatis.png" alt="No" width="600" height="auto"/>
+<img src="assets/img/whatis.png" alt="No" width="700" height="auto"/>
 </p>
 
 The world has been dealing with a troubling spread of STDs, and unfortunately, it's not a game with a happy ending. Thanks to increased global travel, changing sexual behaviors, and a surprising number of people who still think, “What could possibly go wrong?”, STDs are getting more attention than they should. Add in healthcare inequality and a dose of ignorance, and the situation becomes even more complicated.
