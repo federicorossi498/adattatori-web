@@ -102,6 +102,24 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 <iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
 
+To assess if the differences among the IC50 values are statisically signficant, we perfomed severel statistcal tests after having determined that the distribution of the data is not normal (through Kolmogorov-Smirnov test).
+First of all, Kruskal-Wallis test. It evaluates whether the medians of two or more groups are significantly different. 
+The hypotheses for the Kruskal-Wallis test are:
+- H0 (Null Hypothesis): The distributions (and medians) of all groups are equal.
+- H1 (Alternative Hypothesis): At least one group has a different median.
+{: .text-justify}
+
+
+The reuslt is the following: 
+Kruskal-Wallis Test: H-statistic = 2054.892714121525, p-value = 0.0
+Significant differences found between groups.
+{: .text-justify}
+
+
+Secondly, we perform a post-hoc Dunn's test to identify which specific groups differ in their medians. It performs pairwise comparisons between all groups and adjusts p-values to account for multiple testing.
+- H0 (Null Hypothesis): The medians of the two groups being compared are equal.
+- H1 (Alternative Hypothesis): The medians of the two groups being compared are different.
+{: .text-justify}
 
 ### Focus on Ligands targeting Gag-Pol polyprotein
 
