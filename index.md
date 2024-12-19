@@ -83,21 +83,8 @@ With our dataset validated and refined, we are ready to dive deeper into the mol
 {: .text-justify}
 
 ### Analysis <a id="analysis"></a>
-To begin, we analyzed the number of unique target proteins present in our target organism (HIV). The visualization below displays all target proteins, including instances where the same protein appears with different mutations or target sites.
+To begin, we analyzed the number of unique target proteins present in our target organism (HIV). To simplify the analysis, we created a condensed barplot that groups identical proteins together, regardless of mutations or target site variations.
 {: .text-justify}
-
-<div style="text-align: center;">
-  <img src="assets/img/hist_targets_non_condensed.png" alt="Barplot of Non-Condensed Targets" style="max-width: 80%; height: auto;">
-  <p style="font-weight: bold; margin-top: 10px;">Non-Condensed Target Proteins Distribution</p>
-</div>
-
-To simplify the analysis, we created a condensed barplot that groups identical proteins together, regardless of mutations or target site variations.
-{: .text-justify}
-
-<div style="text-align: center;">
-  <img src="assets/img/hist_target_proteins_condensed.png" alt="Barplot of Condensed Targets" style="max-width: 80%; height: auto;">
-  <p style="font-weight: bold; margin-top: 10px;">Condensed Target Proteins Distribution</p>
-</div>
 
 <iframe src="assets/plots/most_targ_prot.html" width="100%" height="800px" frameborder="0"></iframe>
 
