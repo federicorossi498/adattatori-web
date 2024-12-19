@@ -38,7 +38,7 @@ Over the years, several prominent individuals have courageously disclosed their 
 
 ## OUR PROJECT <a id="our-project"></a>
 <p align="left">
-<img src="assets/img/contribution.png" alt="No" width="400" height="auto"/>
+<img src="assets/img/analysis.png" alt="No" width="400" height="auto"/>
 </p>
 
 Fortunately, not only humans live their life in couples but so do chemical compounds, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
