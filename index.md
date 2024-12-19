@@ -61,7 +61,9 @@ To ensure our dataset is suitable for analyzing HIV, we began by narrowing down 
 </div>
 
 This is just a first try to add the plotly plots with html embedded
+{% raw %}
 <iframe src="assets/plots/piechart.html" width="100%" height="600px" frameborder="0"></iframe>
+{% endraw %}
 
 ### Why choose IC50 as a binding affinity metric?
 In the world of drug discovery, four key metrics help us measure the strength and nature of the bond between a drug and its target protein:
