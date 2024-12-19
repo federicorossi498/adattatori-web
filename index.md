@@ -70,6 +70,7 @@ While these metrics are interconnected, IC50 stands out for its practical and ex
 {: .text-justify}
 
 <iframe src="assets/plots/metric availability.html" width="100%" height="600px" frameborder="0"></iframe>
+
 <iframe src="assets/plots/metric availability matrix.html" width="100%" height="600px" frameborder="0"></iframe>
 
 By focusing on IC50, we ensure that our exploration is grounded in data that is both reliable and meaningful, allowing us to trace patterns in drug-target interactions. This decision shapes our next steps: filtering the dataset to retain only rows with IC50 values, ensuring our analysis is built on a solid foundation.
