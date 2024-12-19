@@ -1,13 +1,12 @@
 ---
 layout: page
 title: ALL YOU NEED IS LOVE... AND A GOOD CHEMICAL AFFINITY !
-subtitle: An analysis on sexually transmitted diseases
 cover-img: /assets/img/Progetto senza titolo.png
 ---
 <p align="center">
 <img src="assets/img/presentation.png" alt="No" width="500" height="auto"/>
 </p>
-As social beings, we humans tend to create meaningful <span style="color: firebrick;">ROMANTIC RELATIONSHIPS</span>. Nevertheless, jumping into this boat implies assuming <span style="color: firebrick;">MANY RISKS</span>. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
+As social beings, we humans tend to create meaningful <span style="color: firebrick;">ROMANTIC RELATIONSHIPS</span>. Nevertheless, jumping into this boat implies assuming <span style="color: firebrick;">MANY RISKS</span>. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. 
 {: .text-justify}
 
 ## STD AND HIV <a id="introduction"></a>
