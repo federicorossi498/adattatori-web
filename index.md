@@ -88,12 +88,27 @@ To begin, we analyzed the number of unique target proteins present in our target
 
 <iframe src="assets/plots/most_targ_prot.html" width="150%" height="800px" frameborder="0"></iframe>
 
+
+We clearly see that the most targeted proteins in HIV-1 are:
+➮ Reverse Transcriptase: an enzyme that plays a critical role in the HIV lifecycle by converting the virus's single-stranded RNA genome into double-stranded DNA once the virus enters a host cell. This conversion allows the viral DNA to integrate into the host’s genome, a necessary step for HIV replication.
+➮ Gag-Pol polyprotein: a precursor protein produced from the HIV genome that contains multiple essential viral components, including reverse transcriptase, protease, and integrase. During viral maturation, the Gag-Pol polyprotein is cleaved into its functional proteins by the protease enzyme, allowing the formation of mature, infectious viral particles.
+➮ Integrase: another enzyme within the Gag-Pol polyprotein that facilitates the integration of HIV's DNA into the host cell's genome. This integration is a crucial step in establishing a permanent infection.
+{: .text-justify}
+
+
 ### Revealing affinities: The first step in our Journey
 Our exploration begins with a glimpse into the world of drug-target affinities, focusing on IC50 values for each of the target proteins in our dataset. Through the lens of the representative boxplots below, we uncover the range and variability of these affinities, painting a detailed picture of how well different compounds inhibit their target proteins. Once we complete the analysis, we’ll delve into the patterns and insights these plots reveal—laying the groundwork for our deeper investigation.
 {: .text-justify}
 
-
 <iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
+
+
+### Focus on Ligands targeting Gag-Pol polyprotein
+
+
+
+
+
 
 
 ## Conclusion <a id="conclusion"></a>
