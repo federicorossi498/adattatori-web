@@ -110,7 +110,7 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 
 ### Most targeted protein
-<iframe src="assets/plots/most_targ_prot.html" width="100%" height="300px" frameborder="0"></iframe>
+<iframe src="assets/plots/most_targ_prot.html" width="90%" height="600px" frameborder="0"></iframe>
 
 
 ### IC50 vs target
