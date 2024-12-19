@@ -69,9 +69,9 @@ In the world of drug discovery, four key metrics help us measure the strength an
 While these metrics are interconnected, IC50 stands out for its practical and experimental relevance. Unlike Ki or Kd, which are equilibrium constants requiring specific conditions to interpret accurately, IC50 directly reflects how much of a drug is needed to impede a biological process. Moreover, it is the most frequently reported metric in our dataset, making it both scientifically and statistically robust for our analysis.
 {: .text-justify}
 
-<iframe src="assets/plots/metric availability.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="assets/plots/metric availability.html" width="90%" height="800px" frameborder="0"></iframe>
 
-<iframe src="assets/plots/metric availability matrix.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="assets/plots/metric availability matrix.html" width="90%" height="800px" frameborder="0"></iframe>
 
 By focusing on IC50, we ensure that our exploration is grounded in data that is both reliable and meaningful, allowing us to trace patterns in drug-target interactions. This decision shapes our next steps: filtering the dataset to retain only rows with IC50 values, ensuring our analysis is built on a solid foundation.
 {: .text-justify}
