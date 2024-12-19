@@ -84,7 +84,7 @@ With our dataset validated and refined, we are ready to dive deeper into the mol
 To begin, we analyzed the number of unique target proteins present in our target organism (HIV). To simplify the analysis, we created a condensed barplot that groups identical proteins together, regardless of mutations or target site variations.
 {: .text-justify}
 
-<iframe src="assets/plots/most_targ_prot.html" width="150%" height="800px" frameborder="0"></iframe>
+<iframe src="assets/plots/most_targ_prot.html" width="200%" height="800px" frameborder="0"></iframe>
 
 
 We clearly see that the most targeted proteins in HIV-1 are:
@@ -98,7 +98,7 @@ We clearly see that the most targeted proteins in HIV-1 are:
 Our exploration begins with a glimpse into the world of drug-target affinities, focusing on IC50 values for each of the target proteins in our dataset. Through the lens of the representative boxplots below, we uncover the range and variability of these affinities, painting a detailed picture of how well different compounds inhibit their target proteins. Once we complete the analysis, we’ll delve into the patterns and insights these plots reveal—laying the groundwork for our deeper investigation.
 {: .text-justify}
 
-<iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
+<iframe src="assets/plots/plot_ic50_v_target.html" width="200%" height="800px" frameborder="0"></iframe>
 
 Our journey into the statistical landscape of IC50 values begins with a pivotal question: "Are the observed differences among these values truly significant?". To answer this, we first turned to the Kolmogorov-Smirnov test, which confirmed that the data deviate from a normal distribution. Subsequently, we applied the Kruskal-Wallis test — a robust method for evaluating whether the medians of two or more groups diverge meaningfully. The results hinted at significant differences, prompting us to dig deeper. A post-hoc Dunn’s test followed: at the standard significance threshold of 0.05, the Gag-Pol polyprotein emerges as a standout, with its median logarithmic IC50 value diverging significantly from those of the other groups.
 {: .text-justify}
