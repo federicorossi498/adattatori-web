@@ -102,7 +102,7 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 <iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
 
-Our journey into the statistical landscape of IC50 values begins with a pivotal question: "Are the observed differences among these values truly significant?". To answer this, we first turned to the Kolmogorov-Smirnov test, which confirmed that the data deviate from a normal distribution. Subsequently, we applied the Kruskal-Wallis test — a robust method for evaluating whether the medians of two or more groups diverge meaningfully. The results hinted at significant differences, prompting us to dig deeper. A post-hoc Dunn’s test followed, shedding light on the specifics: at the standard significance threshold of 0.05, the Gag-Pol polyprotein emerges as a standout, with its median logarithmic IC50 value diverging significantly from those of the other groups.
+Our journey into the statistical landscape of IC50 values begins with a pivotal question: "Are the observed differences among these values truly significant?". To answer this, we first turned to the Kolmogorov-Smirnov test, which confirmed that the data deviate from a normal distribution. Subsequently, we applied the Kruskal-Wallis test — a robust method for evaluating whether the medians of two or more groups diverge meaningfully. The results hinted at significant differences, prompting us to dig deeper. A post-hoc Dunn’s test followed: at the standard significance threshold of 0.05, the Gag-Pol polyprotein emerges as a standout, with its median logarithmic IC50 value diverging significantly from those of the other groups.
 {: .text-justify}
 
 ### Focus on Ligands targeting Gag-Pol polyprotein
