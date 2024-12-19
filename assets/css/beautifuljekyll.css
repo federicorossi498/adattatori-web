@@ -4,7 +4,6 @@ layout: null
 
 @import url("pygment_highlights.css");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=League Gothic:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
 
 /* --- General --- */
@@ -15,7 +14,7 @@ html {
 }
 
 body {
-  font-family: 'League Gothic', serif;
+  font-family: 'Lato', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
