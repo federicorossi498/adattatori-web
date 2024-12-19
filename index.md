@@ -61,10 +61,14 @@ This is just a first try to add the plotly plots with html embedded
 ### Why choose IC50 as a binding affinity metric?
 In the world of drug discovery, four key metrics help us measure the strength and nature of the bond between a drug and its target protein:
 
--Ki measures the binding affinity of an inhibitor to its target under ideal equilibrium conditions.
--Kd quantifies the strength of the interaction, with lower values indicating tighter binding.
--EC50 gauges the concentration of a drug needed to produce half of its maximal biological effect.
--IC50, our metric of choice, represents the concentration of a drug required to inhibit 50% of the target’s activity in an experimental setup.
+➜ Ki measures the binding affinity of an inhibitor to its target under ideal equilibrium conditions.
+
+➜ Kd quantifies the strength of the interaction, with lower values indicating tighter binding.
+
+➜ EC50 gauges the concentration of a drug needed to produce half of its maximal biological effect.
+
+➜ IC50, our metric of choice, represents the concentration of a drug required to inhibit 50% of the target’s activity in an experimental setup.
+
 While these metrics are interconnected, IC50 stands out for its practical and experimental relevance. Unlike Ki or Kd, which are equilibrium constants requiring specific conditions to interpret accurately, IC50 directly reflects how much of a drug is needed to impede a biological process. Moreover, it is the most frequently reported metric in our dataset, making it both scientifically and statistically robust for our analysis.
 
 <div style="text-align: center;">
