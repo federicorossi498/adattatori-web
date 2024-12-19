@@ -3,6 +3,8 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
 
 /* --- General --- */
 
@@ -12,7 +14,7 @@ html {
 }
 
 body {
-  font-family: 'Inter', serif;
+  font-family: 'Roboto', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
