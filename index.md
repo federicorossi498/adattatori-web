@@ -29,7 +29,7 @@ Over the years, several prominent individuals have courageously disclosed their 
 {: .text-justify}
 
 <p align="center">
-<img src="assets/img/famous.png" alt="No"/>
+<img src="assets/img/famous.png" alt="No"width="300" height="auto"/>
 </p>
 
 Look at some statistics about HIV/AIDS that highlight the ongoing global challenges and progress in combating the epidemic!! Such numbers! 
@@ -94,11 +94,6 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 
 
 <iframe src="assets/plots/plot_ic50_v_target.html" width="150%" height="800px" frameborder="0"></iframe>
-
-
-
-
-
 
 
 ## Conclusion <a id="conclusion"></a>
