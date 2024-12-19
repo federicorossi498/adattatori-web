@@ -55,7 +55,6 @@ To ensure our dataset is suitable for analyzing HIV, we began by narrowing down 
 
 <iframe src="assets/plots/piechart.html" width="100%" height="600px" frameborder="0"></iframe>
 
-
 ### Why choose IC50 as a binding affinity metric?
 In the world of drug discovery, four key metrics help us measure the strength and nature of the bond between a drug and its target protein:
 
