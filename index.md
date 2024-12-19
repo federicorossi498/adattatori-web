@@ -101,11 +101,12 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
   <img src="assets/img/ic50_boxplot_condensed.png" alt="Barplot of Condensed Targets" style="max-width: 80%; height: auto;">
 </div>
 
-### Conclusion <a id="conclusion"></a>
+## Conclusion <a id="conclusion"></a>
 <p align="left">
 <img src="assets/img/protection.png" alt="No" width="300" height="auto"/>
 </p>
-## References
+
+### References
 
 [^1]: 
 [^2]: 
