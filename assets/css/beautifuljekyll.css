@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', serif;
+  font-family: 'League Gothic', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
