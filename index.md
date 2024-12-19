@@ -11,7 +11,7 @@ As social beings, we humans tend to create meaningful romantic relationships. Ne
 {: .text-justify}
 
 ## STD AND HIV <a id="introduction"></a>
-<p align="left">
+<p align="center">
 <img src="assets/img/whatis.png" alt="No" width="400" height="auto"/>
 </p>
 
