@@ -82,7 +82,7 @@ By focusing on IC50, we ensure that our exploration is grounded in data that is 
 With our dataset validated and refined, we are ready to dive deeper into the molecular dynamics of drug-target interactions. By uncovering the features that enhance binding affinity, we aim to contribute to the larger fight against HIV, supporting the development of more effective treatments and, ultimately, healthier human connections.
 {: .text-justify}
 
-### Analysis <a id="analysis"></a>
+### ANALYSIS <a id="analysis"></a>
 To begin, we analyzed the number of unique target proteins present in our target organism (HIV). To simplify the analysis, we created a condensed barplot that groups identical proteins together, regardless of mutations or target site variations.
 {: .text-justify}
 
