@@ -102,6 +102,9 @@ Our exploration begins with a glimpse into the world of drug-target affinities, 
 </div>
 
 ### Conclusion <a id="conclusion"></a>
+<p align="left">
+<img src="assets/img/protection.png" alt="No" width="300" height="auto"/>
+</p>
 ## References
 
 [^1]: 
