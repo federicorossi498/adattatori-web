@@ -7,7 +7,7 @@ cover-img: /assets/img/Progetto senza titolo.png
 <p align="center">
 <img src="assets/img/presentation.png" alt="No" width="500" height="auto"/>
 </p>
-As social beings, we humans tend to create meaningful romantic relationships. Nevertheless, jumping into this boat implies assuming <span style="color: firebrick;">MANY RISKS</span>. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
+❤️ As social beings, we humans tend to create meaningful romantic relationships ❤️. Nevertheless, jumping into this boat implies assuming <span style="color: firebrick;">MANY RISKS</span>. Amongst these, infections and viral transmissions like sexually transmitted infections and subsequent diseases (STDs) are one of the most serious ones to such an extent that the World Health Organisation still recognises them as a prominent problem, integrating their potential eradication in its 2030 agenda purposes. Let's deep into this with some analyses!
 {: .text-justify}
 
 ## STD AND HIV <a id="introduction"></a>
@@ -41,7 +41,7 @@ Over the years, several prominent individuals have courageously disclosed their 
 <img src="assets/img/analysis.png" alt="No" width="400" height="auto"/>
 </p>
 
-Fortunately, not only humans live their life in couples but so do chemical compounds, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
+❤️ Fortunately, not only humans live their life in couples but so do chemical compounds ❤️, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
 Thus, with our dataset we would like to trace development of the drugs against HIV and try to depict which are the main molecular features that contribute to a higher affinity between drug and HIV target proteins.
 We will embark on a quest to uncover patterns among ligands that can more effectively predict affinity, revealing just the tip of the iceberg of the immense potential chemical binding holds for achieving this goal.
 
