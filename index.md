@@ -90,9 +90,9 @@ To begin, we analyzed the number of unique target proteins present in our target
 
 
 We clearly see that the most targeted proteins in HIV-1 are:
-➮ Reverse Transcriptase: an enzyme that plays a critical role in the HIV lifecycle by converting the virus's single-stranded RNA genome into double-stranded DNA once the virus enters a host cell. This conversion allows the viral DNA to integrate into the host’s genome, a necessary step for HIV replication.
-➮ Gag-Pol polyprotein: a precursor protein produced from the HIV genome that contains multiple essential viral components, including reverse transcriptase, protease, and integrase. During viral maturation, the Gag-Pol polyprotein is cleaved into its functional proteins by the protease enzyme, allowing the formation of mature, infectious viral particles.
-➮ Integrase: another enzyme within the Gag-Pol polyprotein that facilitates the integration of HIV's DNA into the host cell's genome. This integration is a crucial step in establishing a permanent infection.
+<br>➮ Reverse Transcriptase: an enzyme that plays a critical role in the HIV lifecycle by converting the virus's single-stranded RNA genome into double-stranded DNA once the virus enters a host cell. This conversion allows the viral DNA to integrate into the host’s genome, a necessary step for HIV replication.
+<br>➮ Gag-Pol polyprotein: a precursor protein produced from the HIV genome that contains multiple essential viral components, including reverse transcriptase, protease, and integrase. During viral maturation, the Gag-Pol polyprotein is cleaved into its functional proteins by the protease enzyme, allowing the formation of mature, infectious viral particles.
+<br>➮ Integrase: another enzyme within the Gag-Pol polyprotein that facilitates the integration of HIV's DNA into the host cell's genome. This integration is a crucial step in establishing a permanent infection.
 {: .text-justify}
 
 
