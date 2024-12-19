@@ -35,13 +35,14 @@ Look at some statistics about HIV/AIDS that highlight the ongoing global challen
 
 <div class="elfsight-app-dd8d9787-2a4b-4777-982d-e34cdd348984" data-elfsight-app-lazy></div>
 
-
-## OUR PROJECT <a id="our-project"></a>
 <p align="left">
 <img src="assets/img/analysis.png" alt="No" width="400" height="auto"/>
 </p>
 
-Fortunately, not only humans live their life in couples but so do <span style="color: firebrick;">CHEMICAL COMPOUNDS</span>, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
+
+## OUR PROJECT <a id="our-project"></a>
+What we can do against HIV?
+Well, fortunately, not only humans live their life in couples but so do <span style="color: firebrick;">CHEMICAL COMPOUNDS</span>, which are created with the only purpose of belonging to their future partner: “their target protein”. With this project we are keen to see how “couples” in the chemical domain strive to combat this aforementioned human problem, contributing to the health of human relationships.
 Thus, with our dataset we would like to trace development of the drugs against HIV and try to depict which are the main molecular features that contribute to a higher affinity between drug and HIV target proteins.
 We will embark on a quest to uncover patterns among ligands that can more effectively predict affinity, revealing just the tip of the iceberg of the immense potential chemical binding holds for achieving this goal.
 
