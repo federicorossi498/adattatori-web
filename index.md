@@ -29,7 +29,7 @@ Over the years, several prominent individuals have courageously disclosed their 
 {: .text-justify}
 
 <p align="center">
-<img src="assets/img/famous.png" alt="No"width="300" height="auto"/>
+<img src="assets/img/famous.png" alt="No" width="300" height="auto"/>
 </p>
 
 Look at some statistics about HIV/AIDS that highlight the ongoing global challenges and progress in combating the epidemic!! Such numbers! 
